@@ -30,10 +30,10 @@ These style guides forked from Google style guides and adapted for Nexpaq needs.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
-[cpp]: https://google.github.io/styleguide/cppguide.html
-[objc]: https://google.github.io/styleguide/objcguide.xml
-[java]: https://google.github.io/styleguide/javaguide.html
-[htmlcss]: https://google.github.io/styleguide/htmlcssguide.html
-[js]: https://google.github.io/styleguide/jsguide.html
-[cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
-[xml]: https://google.github.io/styleguide/xmlstyle.html
+[cpp]: https://nexpaq.github.io/styleguide/cppguide.html
+[objc]: https://nexpaq.github.io/styleguide/objcguide.xml
+[java]: https://nexpaq.github.io/styleguide/javaguide.html
+[htmlcss]: https://nexpaq.github.io/styleguide/htmlcssguide.html
+[js]: https://nexpaq.github.io/styleguide/jsguide.html
+[cpplint]: https://nexpaq.github.io/styleguide/cpplint
+[xml]: https://nexpaq.github.io/styleguide/xmlstyle.html
