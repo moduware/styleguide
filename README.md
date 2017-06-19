@@ -13,7 +13,7 @@ originated at Google, you may be pointed to this page to see the style guides
 that apply to that project.
 
 Our [C++ Style Guide][cpp], [Objective-C Style Guide][objc], [Java Style
-Guide][java], [HTML/CSS Style Guide][htmlcss], [JavaScript Style Guide][js] are 
+Guide][java], [HTML/CSS Style Guide][htmlcss], [JavaScript Style Guide][js], [JSON Guide][json] are 
 now available. We have also released [cpplint][cpplint],a tool to assist with 
 style guide compliance.
 
@@ -37,3 +37,4 @@ These style guides forked from Google style guides and adapted for Nexpaq needs.
 [js]: https://nexpaq.github.io/styleguide/jsguide.html
 [cpplint]: https://nexpaq.github.io/styleguide/cpplint
 [xml]: https://nexpaq.github.io/styleguide/xmlstyle.html
+[json]: https://nexpaq.github.io/styleguide/jsoncstyleguide.xml
