@@ -8,8 +8,8 @@ consistent style.
 
 “Style” covers a lot of ground, from “use camelCase for variable names” to
 “never use global variables” to “never use exceptions.” This project holds the
-style guidelines we use for Google code. If you are modifying a project that
-originated at Google, you may be pointed to this page to see the style guides
+style guidelines we use for nexpaq code. If you are modifying a project that
+originated at nexpaq, you may be pointed to this page to see the style guides
 that apply to that project.
 
 Our [C++ Style Guide][cpp], [Objective-C Style Guide][objc], [Java Style
