@@ -1,4 +1,4 @@
-# The Official raywenderlich.com C# Style Guide
+# C# Style Guide
 
 This style guide is different from other you may see, because the focus is
 centered on readability for print and the web. We created this style guide to
@@ -32,6 +32,15 @@ This style guide is based on C# and Unity conventions.
   + [Vertical Spacing](#vertical-spacing)
 - [Brace Style](#brace-style)
 - [Switch Statements](#switch-statements)
+- [Unit tests and functional tests](#spacing)
+  + [Assembly naming](#indentation)
+  + [Unit test class naming](#line-length)
+  + [Unit test method naming](#vertical-spacing)
+  + [Unit test structure](#vertical-spacing)
+  + [Testing exception messages](#vertical-spacing)
+  + [Use xUnit.net's plethora of built-in assertions](#vertical-spacing)
+  + [Parallel tests](#indentation)
+  
 - [Language](#language)
 - [Copyright Statement](#copyright-statement)
 - [Smiley Face](#smiley-face)
@@ -378,6 +387,11 @@ switch (variable)
         break;
 }
 ```
+
+## Unit tests and functional tests
+
+
+
 
 ## Language
 
