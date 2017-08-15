@@ -32,7 +32,7 @@ This style guide is based on C# and Unity conventions.
   + [Vertical Spacing](#vertical-spacing)
 - [Brace Style](#brace-style)
 - [Switch Statements](#switch-statements)
-- [Unit tests and functional tests](#Unit-tests-and-functional-tests)
+- [Unit tests and functional tests](#unit-tests-and-functional-tests)
   + [Assembly naming](#indentation)
   + [Unit test class naming](#line-length)
   + [Unit test method naming](#vertical-spacing)
