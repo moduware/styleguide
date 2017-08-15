@@ -38,3 +38,4 @@ These style guides forked from Google style guides and adapted for Nexpaq needs.
 [cpplint]: https://nexpaq.github.io/styleguide/cpplint
 [xml]: https://nexpaq.github.io/styleguide/xmlstyle.html
 [json]: https://nexpaq.github.io/styleguide/jsoncstyleguide.xml
+[c#]: https://nexpaq.github.io/styleguide/csharpstyleguide.html
