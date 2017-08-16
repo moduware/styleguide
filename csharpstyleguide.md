@@ -41,7 +41,7 @@ This style guide is based on C# and Unity conventions.
   + [Unit test method naming](#unit-test-method-naming)
   + [Unit test structure](#unit-test-structure)
   + [Testing exception messages](#testing-exception-messages)
-  + [Use xUnit.net's plethora of built-in assertions](#use-xunitnets-plethora-of-built-in-assertions)
+  + [Use xUnit.net's plethora of built-in assertions](#use-xunitnets-plethora-of-built-in-assertions-use-xunitnets-plethora-of-built-in-assertions)
   + [Parallel tests](#parallel-tests)
 - [Language](#language)
 - [Copyright Statement](#copyright-statement)
