@@ -33,6 +33,7 @@ This style guide is based on C# and Unity conventions.
   + [Line Length](#line-length)
   + [Vertical Spacing](#vertical-spacing)
 - [Brace Style](#brace-style)
+- [Performace Consideration](#performace-consideration)
 - [Switch Statements](#switch-statements)
 - [Unit tests and functional tests](#unit-tests-and-functional-tests)
   + [Assembly naming](#assembly-naming)
@@ -375,6 +376,14 @@ if (someTest)
     DoSomethingElse();
 }
 ```
+
+## Performace Consideration
+- **DO** use `sealed` for private classes if they are not to be inherited.
+- **DO** add `readonly` to fields if they do not tend to be changed.
+- **DO** use `static` methods if it is not instance relevant.
+- **DO** use `RegexOptions.Compiled` for `readonly Regex`.
+
+
 ## Switch Statements
 
 Switch-statements come with `default` case by default (heh). When your code is written correctly, it should never reach this part.
