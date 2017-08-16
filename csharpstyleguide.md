@@ -26,6 +26,7 @@ This style guide is based on C# and Unity conventions.
   + [Access Level Modifiers](#access-level-modifiers)
   + [Fields & Variables](#fields--variables)
   + [Classes](#classes)
+  + [Class Definition Order](#class-definition-order)
   + [Interfaces](#interfaces)
 - [Spacing](#spacing)
   + [Indentation](#indentation)
@@ -223,6 +224,18 @@ string twitterHandle;
 ### Classes
 
 Exactly one class per source file, although inner classes are encouraged where scoping appropriate.
+
+### Class Definition Order
+
+The class definition contains class members in the following order, from less restricted scope (public) to more restrictive (private):
+
+- ~~Nested types, e.g. classes, enum, struct, etc.~~ Non-private nested types are not allowed.
+- Field members (for example, member variables, const, etc.)
+- Member functions
+  - Constructors
+  - Finalizer (Do not use unless absolutely necessary)
+  - Methods (Properties, Events, Operations, Overridables and Static)
+  - Private nested types
 
 ### Interfaces
 
