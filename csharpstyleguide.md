@@ -12,6 +12,7 @@ This style guide is based on C# and Unity conventions.
 
 ## Table of Contents
 
+- [Tools](#tools)
 - [Nomenclature](#nomenclature)
   + [Namespaces](#namespaces)
   + [Classes & Interfaces](#classes--interfaces)
@@ -45,6 +46,11 @@ This style guide is based on C# and Unity conventions.
 - [Smiley Face](#smiley-face)
 - [Credit](#credits)
 
+## Tools
+
+- [ReSharper](http://www.jetbrains.com/resharper/) is a useful third-party code cleanup and style tool.
+- [StyleCop](http://stylecop.codeplex.com/) analyzes C# source code to enforce a set of style and consistency rules and has been integrated into many third-party development tools such as ReSharper.
+- [FxCop](http://codebox/SDLFxCop) is an application that analyzes managed code assemblies (code that targets the .NET Framework common language runtime) and reports information about the assemblies, such as possible design, localization, performance, and security improvements.
 
 ## Nomenclature
 
